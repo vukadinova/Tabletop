@@ -1,0 +1,141 @@
+[{
+    "name": "Tea",
+    "order": 5,
+    "allergens": "1,3",
+    "price": "1.29",
+    "image_path": "/images/tea.jpg"
+  },
+  {
+    "name": "Coffee",
+    "order": 4,
+    "allergens": "1,3",
+    "price": "2.50",
+    "image_path": "/images/coffee"
+  },
+  {
+    "name": "Lemonade",
+    "order": 3,
+    "allergens": "1",
+    "price": "0.99",
+    "image_path": ""
+  },
+  {
+    "name": "Coca-Cola",
+    "order": 1,
+    "allergens": "1",
+    "price": "0.99",
+    "image_path": "/images/cocacola"
+  },
+  {
+    "name": "Fruit Juice",
+    "order": 2,
+    "allergens": "1,3",
+    "price": "0.99",
+    "image_path": "/images/fruitjuice.jpg"
+  },
+  {
+    "name": "Mac 'n' Cheese",
+    "order": 6,
+    "allergens": "",
+    "price": "8.99",
+    "image_path": "/images/mac n cheese.jpg"
+  },
+  {
+    "name": "Classic Burger",
+    "order": 9,
+    "allergens": "",
+    "price": "10.00",
+    "image_path": "/images/burger.jpg"
+  },
+  {
+    "name": "Chicken Burger",
+    "order": 7,
+    "allergens": "",
+    "price": "9.00",
+    "image_path": "/images/chickenburger.jpg"
+  },
+  {
+    "name": "Kids Beef Burger",
+    "order": 8,
+    "allergens": "",
+    "price": "5.89",
+    "image_path": "/images/kidsburger.jpg"
+  },
+  {
+    "name": "Chunky Chips",
+    "order": 10,
+    "allergens": "2,4",
+    "price": "2.99",
+    "image_path": "/images/chips.jpg"
+  },
+  {
+    "name": "House Salad",
+    "order": 12,
+    "allergens": "1,2,3,4",
+    "price": "1.29",
+    "image_path": "/images/sidesalad.jpg"
+  },
+  {
+    "name": "Rump Steak",
+    "order": 15,
+    "allergens": "4",
+    "price": "15.99",
+    "image_path": "/images/rump.jpg"
+  },
+  {
+    "name": "Sirloin Steak",
+    "order": 16,
+    "allergens": "4",
+    "price": "17.99",
+    "image_path": "/images/sirloin.jpg"
+  },
+  {
+    "name": "Onion Rings",
+    "order": 14,
+    "allergens": "1",
+    "price": "2.99",
+    "image_path": "/images/onionrings.jpg"
+  },
+  {
+    "name": "Garlic Bread",
+    "order": 20,
+    "allergens": "1",
+    "price": "3.99",
+    "image_path": "/images/GarlicBread.jpg"
+  },
+  {
+    "name": "Creamy Garlic Mushrooms",
+    "order": 19,
+    "allergens": "1,3",
+    "price": "9.00",
+    "image_path": "/images/garlicmushrooms.jpg"
+  },
+  {
+    "name": "Garlic and Chilli Scallops",
+    "order": 11,
+    "allergens": "1,4",
+    "price": "12.35",
+    "image_path": "/images/chilliscallops.jpg"
+  },
+  {
+    "name": "Rib Eye Steak",
+    "order": 13,
+    "allergens": "",
+    "price": "19.00",
+    "image_path": "/images/ribeye.jpg"
+  },
+  {
+    "name": "JERK CHICKEN",
+    "order": 17,
+    "allergens": "",
+    "price": "7.89",
+    "image_path": "/images/jerkchicken.jpg"
+  },
+  {
+    "name": "Duck Breast",
+    "order": 18,
+    "allergens": "",
+    "price": "11.29",
+    "image_path": "/images/duck.jpg"
+  }
+]

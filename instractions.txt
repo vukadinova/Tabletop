@@ -1,0 +1,44 @@
+The Task:
+
+For this task you will need to use a local webserver, we recommend you installing xampp,
+you can use one that you are familiar with but it should be an apache server as these are the one we use at Tabletop.
+If you need any help installing xampp feel free to contact me.
+
+Read and display products data from file products.json , with ability of sorting.
+
+For each product you should nicely and clearly display the following:
+ - products name,
+ - products price
+ - products image.
+
+Each displayed product should be the same size, with image size adapted to the container size.
+
+There should be a ‘Sort by’ functionality, you should be able to sort by:
+price (high to low, low to high),
+name (ASC),
+order (ASC),
+also filter by 4 allergens,
+for example only show Gluten Free products.
+
+Allergen information can be read from file allergens.json,
+Products like to allergens by ‘allergens’ attribute which corresponds to allergen ID
+
+ Allergen Object Example:
+  {
+    "name" : "Gluten Free",
+    "id" : 4,
+  }
+
+Product Object example:
+  {
+    "name": "Tea",
+    "order": 1,
+    "allergens": "2,3",
+    "price": "1.29",
+    "image_path": "/images/tea.jpg"
+  }
+
+
+All code should be written in VanillaJS, you can only use ecmascript 5 and below features.
+
+If you need any help or have any questions feel free to contact me on greg@tabletopgroup.co.uk

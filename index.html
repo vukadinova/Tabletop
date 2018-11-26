@@ -1,0 +1,45 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<div class="wrapper">
+		    <div id="tableDiv">
+			    <table id="inner-table">
+			    	<thead>
+	        			<tr>
+	          				<th class="th1" scope="col">Name</th> 
+	          				<th class="th2" scope="col">Image</th> 
+	          				<th class="th3" scope="col">Price</th>  
+	        			</tr>
+	      			</thead>
+
+			    	<tbody>
+						<tr>
+							<td colspan="3">
+								<div class="innerBody">
+	    							<table id="productsTable" class="tabletwo"></table>
+								</div>
+							</td>
+						</tr>
+					</tbody>
+			    </table>
+			</div>
+
+			<div id="sortByDiv">
+				<select id="sortBy" name="sortBy">
+					<option value="">Sort By...</option>
+					<option value="price-high-to-low">Price (high to low)</option>
+					<option value="price-low-to-high">Price (low to high)</option>
+					<option value="name">Name</option>
+					<option value="order">Order</option>
+				</select>
+			</div>
+
+			<div id="allergens"></div>
+		</div>
+		<script src="vanilla.js"></script>
+	</body>
+</html>

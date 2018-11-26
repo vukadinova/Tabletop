@@ -1,0 +1,24 @@
+#tableDiv {
+	float: left;
+}
+
+#tableDiv, #sortByDiv, #allergens {
+	display: inline-block;
+}
+
+.innerBody {
+	height: 30em;
+	overflow: auto;
+}
+
+.tabletwo {
+	text-align: center;
+	border-top: 1px solid grey;
+}
+
+.th1, .td1 {
+	width:149px;
+}
+.th2, .th3, .td2, .td3 {
+	width:99px;
+}
